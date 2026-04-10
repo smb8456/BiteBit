@@ -1,0 +1,7 @@
+let x : Int = 10;
+let flag : Bool = true;
+let name : String = "Sam";
+
+x = 50;
+flag = false;
+name = "Bob";

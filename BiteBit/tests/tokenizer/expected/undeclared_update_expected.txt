@@ -1,0 +1,32 @@
+BiteBit Token List
+---------------------------------------------
+Token Type      Lexeme          Line
+---------------------------------------------
+INT_LITERAL     25              1
+OPERATOR        =               1
+SYMBOL          ;               1
+IDENTIFIER      y               1
+
+BiteBit Token Report
+------------------------------
+Lines processed: 1
+
+Number of literals: 1
+Literals: ['25']
+
+Number of operators: 1
+Operators: ['=']
+
+Number of identifiers: 1
+Identifiers: ['y']
+
+Duplicate variable declarations: []
+
+Number of reserved words: 0
+Reserved words: []
+
+Number of data types: 0
+Data types: []
+
+Number of symbols: 1
+Symbols: [';']
