@@ -72,14 +72,4 @@ BiteBit/
 │   ├── test_parser.py
 │   ├── test_symbol_table.py
 │   └── test_interpreter.py
-└── docs/
-    ├── BiteBit_Final_Whitepaper.md
-    ├── BiteBit_Final_Language_Specification.md
-    ├── BiteBit_Language_Tutorial.md
-    ├── BiteBit_Reference_Manual.md
-    ├── BiteBit_Project_Development_Plan.md
-    ├── BiteBit_Translator_Architecture.md
-    ├── BiteBit_Test_Plan.md
-    ├── BiteBit_Design_Artifacts.md
-    └── BiteBit_Postmortem_Conclusion.md
 ```
