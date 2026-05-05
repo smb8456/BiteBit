@@ -1,0 +1,2 @@
+# BiteBit has no external dependencies.
+# Python 3.8+ standard library only.
