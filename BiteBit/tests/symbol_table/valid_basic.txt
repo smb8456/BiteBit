@@ -1,3 +1,0 @@
-let x : Int = 10;
-let name : String = "Sam";
-let flag : Bool = true;

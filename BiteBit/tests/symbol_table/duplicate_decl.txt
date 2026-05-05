@@ -1,2 +1,0 @@
-let x : Int = 10;
-let x : Int = 20;
